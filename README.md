@@ -1,4 +1,4 @@
-# Source code of IncreProtoNet Model for Incremental Few-shot Relation Classification
+# Source code and Dataset of Procedural Graph Construction
 Inplementation of Our paper "Constructing Procedural Graphs with Multiple Dependency Relations: A New Dataset and Baseline" in ACL 2023
 
 ## Requirements 
