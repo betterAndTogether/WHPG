@@ -1,0 +1,22 @@
+{
+    "VERB": 0,
+    "PRON": 1,
+    "ADV": 2,
+    "AUX": 3,
+    "NUM": 4,
+    "PART": 5,
+    "INTJ": 6,
+    "PUNCT": 7,
+    "ADP": 8,
+    "SYM": 9,
+    "DET": 10,
+    "ADJ": 11,
+    "X": 12,
+    "CCONJ": 13,
+    "SCONJ": 14,
+    "PROPN": 15,
+    "NOUN": 16,
+    "[CLS]": 17,
+    "[SEP]": 18,
+    "[PAD]": 19
+}
