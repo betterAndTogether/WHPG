@@ -1,0 +1,6115 @@
+[
+  {
+    "edus": [
+      {
+        "text": "Heat the oil in a large saucepan over medium heat .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Saute the carrots and onion for a few minutes until the onion has softened a little .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Pour in the vegetable stock and add the coriander .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Bring to the boil , and cook until the carrots are tender , about 10 minutes .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Remove from heat and allow to cool slightly .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Puree the soup until smooth , using a hand blender or food processor .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Reheat before serving if necessary .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Serve with crusty bread .",
+        "speaker": "0",
+        "sen_id": 7
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      }
+    ],
+    "txt_id": "Carrot_and_fresh_coriander_soup_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Wash the lentils in cold water until the water runs clear ( this is very important or the lentils will lose texture ) .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Put the lentils in a pot with water to cover , and simmer covered until lentils are tender ( add more water if necessary ) .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "While the lentils are cooking : In a large frying pan or saucepan , caramelise the onion in vegetable oil .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "While the onions are cooking , combine the curry paste , curry powder , turmeric , cumin , chilli powder , salt , sugar , garlic and ginger in a mixing bowl .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Mix well .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "When the onions are cooked , add the curry mixture to the onions and cook over a high heat stirring constantly for 1 to 2 minutes .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Stir in the passata and reduce heat , allow the curry base to simmer until the lentils are ready .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "When the lentils are tender , drain them briefly ( they should have absorbed most of the water but you do n't want the curry to be too wet ) .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Mix the curry base into the lentils and serve immediately .",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "Masoor_dhal_curry_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 180 C / Gas mark 4 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "In a large bowl , stir together the icing sugar , cocoa , flour and salt until well blended .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Cut in the butter until lumps are no larger than peas .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Add eggs and vanilla ; mix until a stiff dough forms .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "It may take a minute to come together .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "On a lightly floured surface , roll out dough to .5cm thickness and cut into desired shapes using biscuit cutters .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "If the dough is too sticky , chill for a little bit .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Place biscuits 5cm apart onto an ungreased baking tray .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Bake for 8 to 10 minutes in the preheated oven , or until the surface appears dry .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Allow biscuits to cool for a couple minutes on the baking tray before removing to wire racks to cool completely .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "When biscuits are completely cool , melt the chocolate over a double boiler or in the microwave .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Stir frequently until smooth .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Dip cookies or drizzle with the chocolate and place on greaseproof paper to set .",
+        "speaker": "0",
+        "sen_id": 12
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      }
+    ],
+    "txt_id": "Emilys_famous_chocolate_shortbread_biscuits_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "In a mixing bowl , combine peanut butter , soy sauce , lime juice , sugar , curry powder , garlic and hot sauce .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Place the chicken in the marinade and refrigerate .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Let the chicken marinate at least 2 hours ; overnight is best .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Preheat barbecue to high heat .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Thread the chicken onto bamboo skewers , then cook for 5 minutes per side .",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "Peanut_chicken_satay_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Add ingredients in the order suggested by your manufacturer .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Set for dough setting and start machine .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "When the unit signals , remove dough .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Pat dough into a greased 30cm ( 12 in ) round pizza pan .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Let stand 10 minutes .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Preheat oven to 200 C / Gas mark 6 .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Spread pizza sauce over dough .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Sprinkle toppings over sauce ( such as basil and mozzarella for a simple margherita pizza ) .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Bake 15 to 20 minutes , or until crust is golden brown .",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "Homemade_pizza_base_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "In a large bowl , combine all ingredients .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Toss well , chill and serve .",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "Tomato_and_cucumber_salad_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Put the beef in a bowl with the garlic , bay leaves , juniper berries and thyme .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Pour over the wine , then cover and leave to marinate in the fridge for 8 hours or overnight .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "The next day , preheat the oven to 160 C ( 325F , gas mark 3 ) .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Put the button onions in a bowl and pour over enough boiling water to cover .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Leave for 2 minutes , then drain .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "When cool enough to handle , peel off the skins .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Set the onions aside .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Remove the beef from the marinade and pat dry on kitchen paper .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Heat the oil in a large flameproof casserole over a moderately high heat .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Add the beef and brown on all sides .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Do this in batches , if necessary , so the pan is not overcrowded .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Remove the beef from the casserole and set aside on a plate .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Add the onions to the casserole and cook gently for 3-4 minutes or until lightly coloured all over .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Add the barley and cook for 1 minute , stirring , then return the beef and any beefy juices to the casserole .",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "Pour in the stock and bring to a simmer .",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "Strain the marinade into the casserole , and add the bay leaves and sprig of thyme .",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "Season with salt and pepper to taste .",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "Cover with a tight-fitting lid , transfer to the oven and braise for 45 minutes .",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "Add the carrots , celery and swede , and stir to mix .",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "Cover again and braise for a further 1-1\u00bc hours or until the beef , barley and vegetables are tender .",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "Remove the bay leaves and thyme stalk before serving .",
+        "speaker": "0",
+        "sen_id": 20
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 20
+      }
+    ],
+    "txt_id": "Slowbraised_beef_and_barley_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 160 C / Gas mark 3 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Cream butter and brown sugar .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Add 400g to 500g flour .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Mix well .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Sprinkle board with the remaining flour .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Knead for 5 minutes , adding enough flour to make a soft dough .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Roll to 1cm ( 1/2 in ) thickness .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Cut into 7x2cm ( 3x1 in ) strips .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Prick with fork and place on ungreased baking trays .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Bake in preheated oven for 20 to 25 minutes .",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "Brown_sugar_shortbread_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Place the ginger strips into a shaker and press to release the flavour .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add the ice cubes and vodka ; shake and strain into a champagne glass .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Top with champagne to serve .",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "Ginger_Champagne_Cocktail_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 190 C / Gas mark 5 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Arrange almonds in a single layer on a baking tray .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Bake 5 minutes , stirring occasionally , until fragrant and lightly toasted .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "In a small bowl , mix red wine vinegar , balsamic vinegar , olive oil , mustard , tarragon , salt and pepper .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "In a medium bowl , toss the red wine vinegar mixture with the spinach and mangos .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Top with the toasted almonds to serve .",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "Spinach_and_mango_salad_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Cook the pasta in a large saucepan of lightly salted boiling water for 10-12 minutes .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Drain well in a colander .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Place the pasta in a large mixing bowl and toss well with the olive oil .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Drain the tuna and use a fork to roughly break it into flakes .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Put the tuna into a blender or food processor .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Add the lemon juice to taste , capers or wine vinegar , and mayonnaise and blend together until smooth and creamy .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Add to the pasta and stir together until all the ingredients are evenly mixed .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "De-seed the pepper and then finely dice .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Finely dice the cucumber without removing the skin .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Add the pepper , cucumber and sweetcorn to the pasta and toss together .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Spoon into a serving dish .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Remove the shell from the hard-boiled eggs and cut into quarters .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Arrange the wedges decoratively over the salad , then serve .",
+        "speaker": "0",
+        "sen_id": 12
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      }
+    ],
+    "txt_id": "Pasta_salad_with_tuna_mayonnaise_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Mix together the sugar , water , jam and cornflour in a medium large saucepan .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Boil for one minute .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Remove from heat .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Stir in the sliced strawberries , and toss until well coated .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Pour into the digestive biscuit base .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Chill until well set .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Serve topped with whipped cream .",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "Easy_Strawberry_Tart_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 170 C / Gas 3 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Sift together twice : flour , baking powder and salt .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Pour back into sieve .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "In a large mixing bowl beat egg yolks and whole egg with an electric mixer until thick and lemon coloured ( about 5 minutes ) .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Gradually add sugar , beating after each addition .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "This should take about 10 minutes .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Fold orange zest , orange juice and lemon extract into the egg mixture .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Sift in dry ingredients and fold gently .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Do not stir or beat .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Add boiling water from the kettle and fold in quickly , just until liquid is blended .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Pour cake mixture into an ungreased 25cm tube cake tin .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Bake at 170 C / Gas 3 for 60 to 65 minutes .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Turn cake over in tin on a wire rack and let cake hang for 1 hour or until cool .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Loosen cake sides from tin with a spatula and shake loose .",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "Dust top lightly with icine sugar or ice with Orange Buttercream Icing .",
+        "speaker": "0",
+        "sen_id": 14
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      }
+    ],
+    "txt_id": "Ultimate_sponge_cake_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat the oven to 180 C / Gas mark 4 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "In a large bowl , cream together the butter and sugar until smooth .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Beat in the eggs one at a time , then stir in the vanilla .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Combine the flour , cocoa , bicarbonate of soda and salt ; stir into the creamed mixture .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Fold in the white chocolate chips .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Drop by rounded teaspoonfuls onto ungreased baking trays .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Bake for 8 to 10 minutes in the preheated oven , until cookies are set .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Allow cookies to cool on baking tray for 5 minutes before removing to a wire rack to cool completely .",
+        "speaker": "0",
+        "sen_id": 7
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      }
+    ],
+    "txt_id": "White_chocolate_chip_cookies_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 180 C / Gas 4 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Grease and flour two 23cm cake tins .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Use the first set of ingredients to make the cake .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "In a medium bowl , stir together the sugar , flour , cocoa , bicarb , baking powder and salt .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Add the eggs , milk , oil and vanilla , mix for 3 minutes with an electric mixer .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Stir in the boiling water by hand .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Pour evenly into the two prepared tins .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Bake the cakes for 30 to 35 minutes in the preheated oven , until a skewer inserted comes out clean .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Cool for 10 minutes before removing cakes from tins to cool completely .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "To make the icing , use the second set of ingredients .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Cream butter until light and fluffy .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Stir in the cocoa and icing sugar alternately with the milk and vanilla .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Beat to a spreading consistency .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Split the layers of cooled cake horizontally , cover the top of each layer with icing , then stack them onto a serving plate .",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "Ice the outside of the cake .",
+        "speaker": "0",
+        "sen_id": 14
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      }
+    ],
+    "txt_id": "Chocolate_cake_with_chocolate_buttercream_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat barbecue for medium-high heat and lightly oil the cooking grate .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Whisk together the butter , garlic , curry powder , cumin and salt in a small bowl .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Arrange four large sheets of foil on a flat surface .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Divide the mussels into four even portions and place one portion on each piece of foil .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Dot the mussels with the curry mixture .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Sprinkle the red pepper and parsley over the top of each portion .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Top each with lime slices .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Wrap foil tightly around the portions .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Cook the packets on the preheated barbecue until the mussels have opened , 5 to 10 minutes .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Discard any mussels which do not open .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Transfer the mussels to small bowls and garnish each with a lime wedge to serve .",
+        "speaker": "0",
+        "sen_id": 10
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      }
+    ],
+    "txt_id": "Curried_BBQ_mussels_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Heat oil in a large stockpot over medium high heat .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add mince and onion , and cook until beef is well browned and crumbled .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Drain fat , and transfer beef to a slow cooker .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Add cabbage , kidney beans , water , passata , stock cubes , cumin , salt and pepper .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Stir to dissolve stock cubes , and cover .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Cook on high setting for 4 hours , or on low setting for 6 to 8 hours .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Stir occasionally .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Enjoy !",
+        "speaker": "0",
+        "sen_id": 7
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      }
+    ],
+    "txt_id": "Cabbage_Beef_Soup_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Bring a large pan of lightly salted water to the boil .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add the potatoes and peas and return to the boil .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Reduce the heat and simmer for 3 minutes or until the potatoes are just beginning to soften .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Drain and set aside .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Heat 2 tbsp of the oil in a 25cm frying pan with a flameproof handle .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "When the oil is hot , reduce the heat to medium , add the onion and cook for 2 minutes .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Add the garlic and continue cooking for a further 2-3 minutes until the onion is soft , but not brown .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Add the potatoes and peas to the pan and continue frying , stirring , for 5 minutes or until the potatoes are tender .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Remove the pan from the heat .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "In a large bowl , lightly beat the eggs with the parsley and a little black pepper , then stir in the ham , the potato , onion and pea mixture and the tomatoes .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Place the frying pan back over a medium heat , add the remaining oil and swirl it around .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "When the oil is hot , pour in the egg mixture , spreading it out evenly .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Cook the omelette for 5-7 minutes on a low heat , shaking the pan frequently , until the base is set .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Use a spatula to loosen and lift the edges of the omelette , allowing the uncooked egg mixture to run underneath .",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "Meanwhile preheat the grill to medium .",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "Place the pan under the grill and continue cooking the omelette for 5 minutes until it is golden brown and set .",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "Pierce the top with a knife to make sure it is cooked all the way through .",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "Slide the omelette out of the pan onto a board and leave to cool for 2-3 minutes .",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "Serve cut into wedges .",
+        "speaker": "0",
+        "sen_id": 18
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 18
+      }
+    ],
+    "txt_id": "Spanishstyle_omelette_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Put the apple chunks into a pan , add three quarters of the sugar , the cinnamon stick or clove and cover .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Allow to stew gently for half an hour , stirring occasionally with a wooden spoon .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Keep checking as they can easily burn at the beginning .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Check that the fruit is cooked by mashing it a bit with a wooden spoon .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "The apples should be soft but not pur\u00c3\u00a9ed .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Put the apples into the serving dish and allow to cool .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Set the temperature of the oven to 150 C / gas 2 .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Mix the flour , remaining sugar and the butter with your fingers in a bowl until it becomes like a breadcrumb consistency .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Cover the stewed apples with the crumble topping , without pressing down .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Bake for approximately 30 minutes or until the crumble is golden brown and crunchy .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Spoon a helping of crumble into a dish and serve with cream or ice cream .",
+        "speaker": "0",
+        "sen_id": 10
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      }
+    ],
+    "txt_id": "Perfect_apple_crumble_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Put all the ingredients for the dough except for the semolina into a breadmaker in the order listed .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Switch it on to the pizza setting and wait for it to finish ( about 45 minutes , depending on the model ) .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Prepare your toppings as you wait for the dough to finish .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "For the sauce , crush or very finely slice the garlic and add to the sieved tomatoes and oil .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Alternately you can blitz all the ingredients in a mini blender .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "10 minutes before the dough is done , turn your oven on as hot as it will go and allow it to heat up fully .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "When the bread maker is finished , tip the dough onto a well floured surface and divide it into 3 parts for 40cm pizzas or 4 for 30cm pizzas .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Roll out as thinly as possible .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Sprinkle the base with semolina and flip onto your tray .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Trim off any overhangs with a sharp knife .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Repeat with the other dough balls .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "At this point you can also freeze the unrolled dough balls for future use .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Just put some olive oil in a bag and spread it around on the inside , then store the dough ball in the sealed bag in the freezer .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Defrost thoroughly before using .",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "Add 2 tablespoons of the sauce to a 12 inch pizza and 3 to a 15 inch pizza .",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "Do NOT be tempted to add more or the base will go limp and soggy !",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "Next add 50 to 60g of grated mozzarella .",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "Again , go easy on the cheese to stop the oil from making the base soggy .",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "Add your toppings but DO N'T OVERLOAD the pizza !",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "I like to add peppers and Parma ham or smoked chorizo slices .",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "Top with a handful of grated Cheddar for that golden brown toasted cheese colour .",
+        "speaker": "0",
+        "sen_id": 20
+      },
+      {
+        "text": "Cook in the oven until the cheese is melted and golden , 5 to 8 minutes .",
+        "speaker": "0",
+        "sen_id": 21
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 21
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 20,
+        "y": 21
+      }
+    ],
+    "txt_id": "Italian_style_pizza_recipe__All_recipes_UK"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat the oven to 200 C / Gas 6 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Line a large baking tray with baking parchment .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Gently sweat the onions off in a frying pan with some oil until they turn translucent , about 6-8 minutes .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Sprinkle in the chilli powder and mix .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Add the turmeric , cumin , ginger , coriander and stir well .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Remove from the heat .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Place the chickpea flour , salt , coriander , cumin into a medium bowl and mix well .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Add the onions and tomato puree into a bowl and mix .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Add a little bit of water to get the correct consistency , it should be wet and easy to stir , but not sloppy .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Drizzle some oil onto the prepared tray , place 2 tablespoons of the onion mix onto the tray for each bhaji , flatten slightly with the back of the spoon .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Bake on the middle shelf of the oven for 20-25 minutes , drizzle a little oil on top of the bhajis and bake for an additional 25 minutes or until golden brown .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Serve hot , enjoy !",
+        "speaker": "0",
+        "sen_id": 11
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      }
+    ],
+    "txt_id": "recipe-00088-16164"
+  },
+  {
+    "edus": [
+      {
+        "text": "Place chicken in a shallow dish or large resealable plastic bag .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Pour the vinaigrette over it , cover or seal and marinate in the fridge for 12 to 24 hours .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Coat a large frying pan lightly with oil , and set over low heat .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Remove the chicken from the marinade and discard the marinade .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Saute chicken breast fillets over low heat for about 30 minutes , or until juices run clear .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Arrange chicken on a serving platter .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Place a generous slice of fresh mozzarella on top of each piece .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Place a leaf of basil on top of the cheese , and cover with a slice of tomato .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Drizzle balsamic vinegar over the platter , then season with salt and pepper .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Serve !",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "recipe-00163-10326"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 180 C / Gas 4 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Beat butter and sugar together until light and fluffy .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Add the eggs , one at a time , beating after each addition .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "If the batter is too thick , stir in some milk .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Gradually add the flour , mixing well each time until evenly mixed .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Spoon tablespoons of batter into a greased muffin tin .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Bake in preheated oven for 15-20 minutes .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "The cake is done when a skewer inserted to the cake comes out clean .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Let rest for fives minutes , then allow to cool fully on a wire rack .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Decorate , if desired .",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "recipe-00068-12854"
+  },
+  {
+    "edus": [
+      {
+        "text": "Cream together butter , vegetable oil and sugar .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add eggs , soured milk and vanilla .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Blend well .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "In a separate bowl , sift dry ingredients together .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Blend dry ingredients into the butter mixture .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Add grated courgette , and mix well .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Spread in a greased floured 20x30cm tin .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Sprinkle walnuts and chocolate chips on top .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Bake in a preheated 170 C / Gas 3 oven for 45 minutes .",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "recipe-00024-18813"
+  },
+  {
+    "edus": [
+      {
+        "text": "Put all items in the blender and mix on High for around 30 seconds .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Serve in a tall glass with a straw , and enjoy !",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "recipe-00096-27033"
+  },
+  {
+    "edus": [
+      {
+        "text": "Fry the onion in the oil over medium heat until golden and translucent .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Remove the onion , set aside and fry the steak for 3-5 minutes each side .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Sprinkle buttered bun with cheese .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Grill lightly , remove and fill it with the steak , onions and BBQ sauce .",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "recipe-00020-13134"
+  },
+  {
+    "edus": [
+      {
+        "text": "Process the goat cheese and 3 slices of salmon in a liquidiser or food processor until smooth .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Season with salt , pepper and chopped chives .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Spread the salmon mousse on several crackers and stack to form a mini-tower .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Garnish with the remaining slice of salmon .",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "recipe-00004-16946"
+  },
+  {
+    "edus": [
+      {
+        "text": "Combine mung beans , carrot , pomegranate , coriander , coconut and chilli paste in a mixing bowl and mix thoroughly .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Just before serving add lemon juice and salt .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Optional : heat 2 teaspoons of olive oil in a small pan .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Add mustard seeds and asafoetida .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Heat till seeds pop .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Pour on the salad and stir well .",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "recipe-00069-28941"
+  },
+  {
+    "edus": [
+      {
+        "text": "Pre heat oven to 230 C / gas mark 8 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Place flour and baking powder in a mixing bowl and rub in butter , next stir in the sugar , then blend in the egg and milk to form a soft dough .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Now turn out onto a lightly floured surface and knead gently .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Roll out to about 1cm ( 1/2 in ) thick and cut into 5cm ( 2 in ) rounds .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Place on a greased baking tray and bake in centre of oven for about 8-10 minutes .",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "recipe-00127-09018"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat the oven to 200 degrees /gas mark 6 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Start by piercing each tomato once and covering with boiling water to loosen the skins .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Drain the onions and chop each one in half .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Once the tomatoes have been in the water for 5 minutes , drain , then remove the skins and coarsely chop into largish pieces .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Put the onions , tomatoes and apples into a casserole dish .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Take a gammon steak , lay flat , and spoon some of the mixture into the middle , then wrap the sides of the steak over the top and secure with a small skewer or piece of raw spaghetti .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Place in the dish and repeat with the other gammon steaks .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Pour cider over the steaks , cover the top with a lid or tin foil .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Cook for 1 hour .",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "recipe-00045-05413"
+  },
+  {
+    "edus": [
+      {
+        "text": "Place water in a medium saucepan , and stir in the rice .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Bring to the boil .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Cover , reduce heat , and simmer 20 minutes .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Remove from heat , cool slightly , and fluff with a fork .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Heat the sesame oil in a separate medium saucepan over medium heat .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Stir in tofu .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Stirring occasionally , fry about 20 minutes , until evenly crisp and lightly browned .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Season with salt .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "In a small saucepan , bring the coconut milk to the boil .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Mix in green curry paste .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Reduce heat , and simmer 5 minutes .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Drizzle generously over the tofu and rice to serve .",
+        "speaker": "0",
+        "sen_id": 11
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      }
+    ],
+    "txt_id": "recipe-00093-38495"
+  },
+  {
+    "edus": [
+      {
+        "text": "Shave the carrots into wide ribbons / waves using a potato peeler .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Cut the red pepper into star shapes using a star cookie cutter .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Cut the bread into flowers using a cookie cutter .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Assemble all onto a skewer with bread flowers top and bottom and carrot curls , cheesy chunks and pepper stars seen as layers between .",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "recipe-00104-32129"
+  },
+  {
+    "edus": [
+      {
+        "text": "Wrap tofu with a piece of kitchen paper and microwave it for one minute on high .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Let cool , then squeeze the paper and drain excess water from the tofu very well .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Combine tofu and mince in a large bowl .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Add all other ingredients , except for the oil .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Get your hands dirty !",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Mix them really well .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Heat a frying pan over medium heat with oil .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Divide the mixture in four , and form four round patties .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Add the burgers to the heated frying pan , and put a lid on .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Cook for 5 minutes , flip them over .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Cook 3 minutes more , with a lid .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "To check the doneness , press one of the patties with a spatula , and if you see clear juice coming out , it's done .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "While the burgers are cooking , roll up shiso leaves and cut them into very thin strips .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Put next three ingredients into a microwavable bowl , and heat up the mixture for 1 minute on high .",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "To serve , pour the mixture over the burgers and put shiso leaves on top .",
+        "speaker": "0",
+        "sen_id": 14
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      }
+    ],
+    "txt_id": "recipe-00092-06846"
+  },
+  {
+    "edus": [
+      {
+        "text": "Warm the olive oil in a frying pan over a medium heat .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add the salmon fillet and cook skin side down for 8 to 10 minutes , then flip over and cook for just a few minutes to get a nice golden brown on top .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Flip back to skin side down and continue to cook until the fish is an even pink colour throughout and the flesh flakes easily with a fork .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "The time this takes will depend on the thickness of the salmon fillet .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Meanwhile , make the sauce .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Melt the butter in a small saucepan over a medium heat then add the thyme .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Cook and stir for 1 minute then pour in the port , lemon juice and seasoning .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Stir for 4 to 6 minutes .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Just prior to serving stir through the cream and capers , if using .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Place the salmon fillet on a warm plate and pour the lemon cream sauce over .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Serve immediately .",
+        "speaker": "0",
+        "sen_id": 10
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      }
+    ],
+    "txt_id": "recipe-00190-35986"
+  },
+  {
+    "edus": [
+      {
+        "text": "Heat 6 tablespoons olive oil in a large frying pan over medium heat , then stir in garlic , broccoli and mushrooms .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "cook until lightly browned .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Add anchovies and water , cover and simmer for 4 to 5 minutes .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Stir in spring onions , tomatoes and parsley and cover again , simmering until vegetables are soft , about 3 to 4 minutes .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "While the vegetables are cooking , bring a large pot of water and one teaspoon of olive oil to the boil .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Add linguine and cook until al dente , about 7 to 8 minutes .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "drain .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Toss with anchovy mixture and chilli flakes .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "If desired , season with black pepper .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Serve immediately .",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "recipe-00084-19694"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat the oven to 200\u00b0C ( 400\u00b0F , gas mark 6 ) .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Cook the lasagne in boiling water for 3-5 minutes , or according to the packet instructions , until al dente .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Drain and rinse under cold water .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Drain on a clean tea-towel , in a single layer , then cut each sheet of lasagne in half lengthways .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Rinse the spinach and place in a large saucepan .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Cover and cook over a moderately high heat for 2-3 minutes ( the water clinging to the leaves will provide enough moisture ) .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Shake the pan occasionally so that the spinach cooks evenly .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Drain well .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Use 4 large leaves to line 4 lightly oiled 175 ml ( 6 fl oz ) ramekin dishes .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Chop the remaining spinach and set aside .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Lay 2 lasagne strips in each spinach-lined ramekin , overlapping them in a cross shape .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Leave excess pasta hanging over the edge .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Mix half the ricotta cheese with the chopped spinach .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Add half of the beaten egg , the nutmeg and seasoning to taste , and mix thoroughly .",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "Cut the salmon into 1 cm ( 1/2 in ) dice and mix with the remaining ricotta cheese and beaten egg .",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "Stir in the fennel or dill , grated lime zest and seasoning to taste until thoroughly combined .",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "Divide the salmon mixture evenly among the ramekins .",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "Cut the remaining 2 strips of pasta across in half and lay a piece in each ramekin , pressing it in neatly on top of the salmon mixture .",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "Spoon the spinach mixture into the dishes and fold the overhanging pasta strips over the top .",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "Cut out 4 pieces of foil and brush them lightly with oil , then use them to cover the ramekin dishes .",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "Place in the oven and bake for 20 minutes .",
+        "speaker": "0",
+        "sen_id": 20
+      },
+      {
+        "text": "Meanwhile , make the herb sauce .",
+        "speaker": "0",
+        "sen_id": 21
+      },
+      {
+        "text": "Melt the butter in a small saucepan .",
+        "speaker": "0",
+        "sen_id": 22
+      },
+      {
+        "text": "Stir in the flour , then gradually stir in the milk and bring to the boil , stirring constantly .",
+        "speaker": "0",
+        "sen_id": 23
+      },
+      {
+        "text": "Stir in the lime juice , herbs , cream and seasoning to taste .",
+        "speaker": "0",
+        "sen_id": 24
+      },
+      {
+        "text": "Remove from the heat .",
+        "speaker": "0",
+        "sen_id": 25
+      },
+      {
+        "text": "Run a flat-bladed knife around the edges of the dishes to loosen the timbales .",
+        "speaker": "0",
+        "sen_id": 26
+      },
+      {
+        "text": "Cover each one with a plate , invert and lift off the dish .",
+        "speaker": "0",
+        "sen_id": 27
+      },
+      {
+        "text": "Pour the herb sauce around , garnish with fennel or dill , if using , and serve .",
+        "speaker": "0",
+        "sen_id": 28
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 20,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 25
+      },
+      {
+        "type": "0",
+        "x": 22,
+        "y": 23
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 24,
+        "y": 25
+      },
+      {
+        "type": "0",
+        "x": 25,
+        "y": 28
+      },
+      {
+        "type": "0",
+        "x": 26,
+        "y": 27
+      },
+      {
+        "type": "0",
+        "x": 27,
+        "y": 28
+      }
+    ],
+    "txt_id": "recipe-00040-02995"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat the oven to 180 C / Gas mark 4 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Spread oats out in a thin layer on a baking tray .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Toast in the oven for about 10 minutes , or until lightly browned .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Set aside to cool .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Remove them from the tray for faster cooling .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "In a medium bowl , whip the cream to firm peaks .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Gently fold in the icing sugar , vanilla and toasted oats .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Spoon into 4 serving bowls , and top with fresh berries .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "For an extra touch , drizzle some whisky over each serving .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Garnish with a mint leaf .",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "recipe-00114-05022"
+  },
+  {
+    "edus": [
+      {
+        "text": "Lay two rashers of bacon across the bottom of a large pot .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Cover with a layer of cabbage .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Sprinkle a light dusting of flour and a pinch of caraway seeds .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Season with a little salt and pepper .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Repeat layering as many times as possible until you run out of room .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Fill the pot with enough water to come about 3/4 up the side .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Bring to the boil and cook for about 45 minutes or until the cabbage is soft , stirring occasionally .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Let cool slightly , then stir in the vinegar and sugar .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Use your own judgment .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Add sugar carefully to taste .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "The idea is to strike a balance between the sweet and the sour and therein lies the trick .",
+        "speaker": "0",
+        "sen_id": 10
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      }
+    ],
+    "txt_id": "recipe-00121-14646"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 200\u5c5eC fan ( 220 C without fan ) .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Line large flat baking tray with baking parchment .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Whisk 150ml milk , the cream and egg together until well combined .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Combine flour , sugar , dates and lemon rind in a large bowl .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Add milk mixture and stir gently to a soft dough , adding remaining milk if necessary .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Turn onto a lightly floured surface and knead gently until dough comes together .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Press dough out to 2cm thick .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Cut scones from dough and place onto tray flat-side up .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Press dough together gently and repeat using the remaining dough .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Brush the tops with milk and sprinkle with a little sugar .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Bake 12-15 minutes until golden and well risen .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Serve hot with jam and cream .",
+        "speaker": "0",
+        "sen_id": 11
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      }
+    ],
+    "txt_id": "recipe-00125-07772"
+  },
+  {
+    "edus": [
+      {
+        "text": "Peel , core and thinly slice apples and cover with water .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Rub together the flour , margarine , sugar and lemon zest .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Beat eggs and milk together and mix with the flour mixture .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Spoon half of the cake mixture into a tin , arrange half the apples on top .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Mix brown sugar and spice together and sprinkle half over the mix in the tin .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Put in the rest of the mixture , and top with the rest of the apples and walnuts .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Bake 1 1/2 hours at 180 C / Gas 4 .",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "recipe-00100-12086"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat the oven to approx 200 C / Gas 6 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Chop the onion , bacon , mushroom and chorizo .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Shallow fry in oil for 5 to 10 minutes until soft .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Lightly butter 6 slices of bread and the remove crusts .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Gently press butter side down into 6 individual mini-loaf tins or muffin tin to make six surprises .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Spoon one tablespoon of cr\u7aeame fra\u6a3dche into each unit and divide the fried onion mixture between the six units .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Carefully break an egg in each unit .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Season to taste .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Lightly butter the remaining slices of bread and remove crusts .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Cut to fit 6 lids for each unit , butter side up .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Seal by gently pressing down and tucking bread into sides .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Bake in centre of hot oven for 10 to 15 minutes .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Longer if you prefer your egg yolks cooked through rather than runny .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Remove from oven .",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "Place plate on top on top of loaf and flip over ( invert ) to remove cooked surprise .",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "This may need a gentle tap with a wooden spoon .",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "Don't worry if it leaks a bit .",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "Just serve it hot and enjoy !",
+        "speaker": "0",
+        "sen_id": 17
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      }
+    ],
+    "txt_id": "recipe-00139-32496"
+  },
+  {
+    "edus": [
+      {
+        "text": "Sift the flour , baking powder and salt into a bowl .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add the butter and rub in until the mixture resembles fine crumbs .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Make a well in the centre and add the milk .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Mix with a wooden spoon or your fingers to make a fairly soft but not sticky dough , adding a little more milk if necessary .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Transfer the dough to a lightly floured surface and knead briefly , then roll out and use as required .",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "recipe-00044-03082"
+  },
+  {
+    "edus": [
+      {
+        "text": "To prepare the mussels , scrape off anything living on the outside of the shells , and pull out the dark hairs ( the beard ) coming out of the side of the shells .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Soak them in cold water while doing so .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "The shells are usually closed when you buy them .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Do not panic if they open under water !",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Any shells that do not close when you tap them have to be thrown out .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "This part may be done a couple of hours ahead of time if the mussels are stored in a cool place .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Set the cleaned mussels aside .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "In a large heavy-bottomed pot , combine the carrot , onion , celery , bay leaf , peppercorns , lemon slices and white wine .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Bring to the boil over high heat , and add 1/3 of the cleaned mussels .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Cover the pan , and cook shaking every minute or so to help the mussels cook evenly .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "When all of the mussels are open , remove from the pan using a slotted spoon , and start enjoying your meal .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Continue to cook remaining mussels in the same liquid .",
+        "speaker": "0",
+        "sen_id": 11
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      }
+    ],
+    "txt_id": "recipe-00038-01926"
+  },
+  {
+    "edus": [
+      {
+        "text": "In a large pan bring chicken stock to the boil .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Pour in white wine and continue to boil for 3 minutes , then lower the heat to to the lowest setting .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Cook mushrooms in a frying pan with butter until soft .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Once soft , remove from heat and set aside .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Heat olive oil in a pan over low heat and cook onion for 2 to 3 minutes , or until soft .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Add rice and stir , then add a ladleful of hot chicken and wine stock .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Mix well and continue gradually adding stock , taking care to mix well so that the rice does not stick to the pan .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Continue until all of the stock has been added and the rice is firm but tender .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Drain any excess juices from the mushrooms , then add the mushrooms to the risotto along with the Parmesan .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Stir to combine , then season to taste with salt and pepper .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Serve straightaway with extra grated Parmesan , if desired .",
+        "speaker": "0",
+        "sen_id": 10
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      }
+    ],
+    "txt_id": "recipe-00010-26387"
+  },
+  {
+    "edus": [
+      {
+        "text": "Boil water in large saucepan and immerse the whole peaches .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Cook until soft , then transfer them to a bowl filled with cold water .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Peel peaches when cooled ( they should peel easily ) and remove stones .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Cut the peaches into pieces , distribute evenly in 6 glasses and sprinkle with cinnamon .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Mix well ( if necessary , add a little sugar ) .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Cover glasses with cling film and chill in fridge for at least 2 hours ( preferably overnight ) .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Serve chilled .",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "recipe-00065-26116"
+  },
+  {
+    "edus": [
+      {
+        "text": "Add potatoes , carrots and onion to a large pan and add water to cover .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Bring to boil and simmer for 20 minutes .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Add corned beef and simmer for another 5 minutes .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Add gravy granules and stir .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "The stew will now thicken up .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "It is now ready to serve .",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "recipe-00133-16740"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 180 C / Gas 4 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Lightly oil a loaf tin .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "In a medium frying pan , gently cook the chopped celery and the onion in 3 teaspoons water until softened .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "In a large mixing bowl combine the cooked celery and onion with walnuts , ground sunflower seeds , soy milk , basil , oregano , breadcrumbs and season with salt and pepper to taste ; mix well .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Place mixture in the prepared loaf tin .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Bake for 60 to 90 minutes ; until the nut loaf is cooked through .",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "recipe-00126-33838"
+  },
+  {
+    "edus": [
+      {
+        "text": "Place the flour , egg and squash into the container of a food processor .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Pulse until mixed into a doughy ball .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "You may need to add a little extra flour .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Divide into two equal parts .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Use in a pie or pastie recipe .",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "recipe-00063-00290"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 180 C / Gas 4 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Grease and flour one 23x13cm loaf tin .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Sieve together flour , cornflour , nutmeg , bicarbonate of soda , cinnamon and cloves .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "In another bowl , mix together guava pulp and juice .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "In another bowl , cream together butter and sugar .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Add eggs , one at a time .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Add flour mixture and guava mixture alternately to creamed mixture .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Pour batter into prepared tin .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Bake at 180 C / Gas 4 for 30-35 minutes .",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "recipe-00110-19835"
+  },
+  {
+    "edus": [
+      {
+        "text": "Heat 2 tbsp olive oil in a frying pan and add 1 chopped onion .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Cook for 5 minutes or until softened .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Add 250g halved or quartered chestnut mushrooms .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Season and cook , stirring occasionally , until the mushrooms give up their juices .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Add 1 tbsp wholegrain mustard , the grated zest of 1 lemon , 1 crushed garlic clove and 4 tbsp dry sherry .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Cook , stirring until the mushrooms are evenly coated with a little sauce .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Meanwhile , drain and slice a 280g jar of roasted red peppers .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Mix the peppers into the mushrooms and heat gently for 1 minute .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Finally , stir in a 185g can tuna , drained , and 25g chopped fresh parsley .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Serve immediately , with crisp salad leaves and plenty of hot crusty bread or boiled rice .",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "recipe-00002-05801"
+  },
+  {
+    "edus": [
+      {
+        "text": "Bring a large pan of water to the boil .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "add lentils and cook over low heat for 30 minutes .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Put tomatoes in a small bowl and season with salt .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Set aside for 15 minutes .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Drain lentils and tomatoes and mix together .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Distribute mixture evenly in 6 individual bowls or ramekins , sprinkle with chopped parsley and serve warm or chilled .",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "recipe-00041-27304"
+  },
+  {
+    "edus": [
+      {
+        "text": "In a medium bowl , combine milk and lemon juice .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add cod fillets and marinate 5 minutes .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Heat oil in large heavy frying pan over medium heat .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "In a shallow bowl , mix together polenta and flour .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Season with paprika , black pepper , salt , garlic granules , thyme and cayenne pepper .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Dredge fish in polenta mixture .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Fry cod fillets in hot oil until golden brown .",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "recipe-00131-19028"
+  },
+  {
+    "edus": [
+      {
+        "text": "Combine the onion and the juice of 2 limes in a small bowl .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "allow the onion to soak in the lime juice for at least 1 hour .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Strain and discard the excess juice .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Set the onion aside .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Grind the serrano chillis , juice of 2 limes and salt together in a food processor until no large chunks of pepper remain .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Add 1 avocado and process until creamy and smooth .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "repeat with remaining avocados .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Transfer the mixture to a serving bowl .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "fold the onion , coriander and mango into the avocado mixture .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Serve at room temperature .",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "recipe-00011-11142"
+  },
+  {
+    "edus": [
+      {
+        "text": "Place chicken carcass ( and any leftover skin and meat and other bones ) in a large pot and cover with cold water .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add bay leaf and bring to the boil .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Reduce heat and simmer 60 to 90 minutes .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Remove from heat , cool slightly and strain .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Remove chicken meat from carcass and chop into bite-size pieces .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "In a large saucepan over medium heat , melt butter .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Cook onion and shallots in butter until translucent .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Pour in strained stock and chicken meat and stir in stock , parsley , salt , pepper , potatoes and sweetcorn .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Simmer 15 minutes , until potatoes are cooked and sweetcorn is tender .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Remove from heat and stir in cream .",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "recipe-00074-13791"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 180 degrees C .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Lightly grease a loaf tin .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Press the brown sugar in the bottom of the tin and spread the ketchup over the sugar .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "In a mixing bowl , mix thoroughly all remaining ingredients and shape into a loaf .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Place on top of the ketchup .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Bake in preheated oven for 1 hour or until juices are clear .",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "recipe-00094-04810"
+  },
+  {
+    "edus": [
+      {
+        "text": "Make up the jelly and pour into two or three glasses .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Leave to completely set , if it is still watery this recipe will not work .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Put the strawberries and raspberries in an electric blender and blend until a mixed paste .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Put the cream into an electric mixer by itself and blend until it's just starting to thicken then mix in the sugar .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Once the sugar is blended in , spoon in the berry paste a bit at a time whilst still mixing so that the cream doesn't become watery .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Continue to mix until the cream is thick like a mousse .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Spoon the fruity cream onto the top of the jellies , decorate the top with the blueberries and chill for at least half an hour .",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "recipe-00007-39265"
+  },
+  {
+    "edus": [
+      {
+        "text": "Pound steak as thin as possible , around 5mm thick .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Drizzle or brush with 1 tablespoon of olive oil , then sprinkle with a thin layer of breadcrumbs .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Layer the prosciutto over the crumbs , sprinkle with remaining breadcrumbs and chopped hard-boiled eggs .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Roll the meat up into a tight roll and secure with kitchen twine .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Heat 2 tablespoons of olive oil in a large saucepan or stock pot over medium-high heat .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Sear the outside of the roast on all sides .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Pour passata over the roast and reduce heat to medium-low .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Cover and simmer for 2 to 3 hours , stirring occasionally .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Remove meat from the sauce to a serving plate and let stand for 15 minutes .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Bring a large pot of lightly salted water to the boil .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Add spaghetti and cook until tender , about 7 minutes .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Drain .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Carve the meat into slices about 1.25cm thick .",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "Serve with spaghetti and sauce .",
+        "speaker": "0",
+        "sen_id": 13
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      }
+    ],
+    "txt_id": "recipe-00075-13589"
+  },
+  {
+    "edus": [
+      {
+        "text": "Preheat oven to 180 C / Gas mark 4 .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Remove and discard the skin from the chicken .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Combine the garlic and ginger and rub over the chicken .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Place the chicken in a 23x33cm ( 9x13 in ) baking dish and set aside .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "Meanwhile , place the coriander , cumin , chilli and lemon juice in a blender and pur\u00e9e until smooth , adding some water if necessary .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Set this aside for later .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "In a separate small bowl , combine the cashews with the cream .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Mix well and pour over the chicken , then cover the baking dish with aluminium foil .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Bake chicken in preheated oven for 30 minutes , or until chicken releases its juices .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Then bake , uncovered , for 15 more minutes , allowing the liquid in the dish to thicken slightly to a sauce .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Remove from oven and combine the sauce in the dish with the reserved coriander mixture .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Mix this well and serve over the chicken .",
+        "speaker": "0",
+        "sen_id": 11
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      }
+    ],
+    "txt_id": "recipe-00022-01268"
+  },
+  {
+    "edus": [
+      {
+        "text": "Melt the butter in a large pan , add the leeks and sweet potatoes , then cook over a low heat for 3 minutes , stirring occasionally , until they begin to soften .",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "Add the cumin and cook for 2 more minutes .",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "Add the stock and bring to the boil .",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "Reduce the heat , cover and cook gently for 12 minutes or until the vegetables are tender .",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "While the soup is simmering , mix together the cr\u00e8me fra\u00eeche and chopped coriander for the garnish .",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "Set aside .",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "Add the butter beans to the soup .",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "Ladle into a blender or food processor and pur\u00e9e until smooth .",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "Return to the pan .",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "Bring back to the boil and simmer gently until piping hot .",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "Season and add the lemon juice .",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "Ladle the soup into four bowls and swirl a large spoonful of coriander cream on top of each .",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "Serve immediately .",
+        "speaker": "0",
+        "sen_id": 12
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      }
+    ],
+    "txt_id": "recipe-00086-04190"
+  }
+]
