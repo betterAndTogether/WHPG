@@ -1,0 +1,9342 @@
+[
+  {
+    "edus": [
+      {
+        "text": "the waiter checks cashier",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the expert purchases accounting system",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the doctor notices the receipt",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "MAM_125"
+  },
+  {
+    "edus": [
+      {
+        "text": "the administrator processes condition",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter determines whether need single code ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waitress products refunding",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the kitchen issues processing goods ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the doctor documents template",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the police assesses the value",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the expert examines the need for advance payment",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the doctor determines the approval process",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the kitchen handles transfer station",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the sommelier transfers the treasury accounts",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the kitchen completes financial view",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the kitchen accounts for impairment of financial assets disposal plan",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the writer processes sales invoicing ",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the administrator confirms requisition ",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the server constructs amount",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the writer fixes asset inventory list ",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the manager makes project summary",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the police funds the information system",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "the sommelier contacts supplier",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "the sommelier prepares vouchers to settle receivable accounting ",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "the sommelier allocates project budget",
+        "speaker": "0",
+        "sen_id": 20
+      },
+      {
+        "text": "the administrator crosses system products",
+        "speaker": "0",
+        "sen_id": 21
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 20,
+        "y": 21
+      }
+    ],
+    "txt_id": "MAM_37"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police processes dangerous goods",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator processes condition",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager notifies the production department",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor determines the focal point changes to customer information",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the writer approvals finance",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "MAM_166"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer assigns material",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server returns order",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the doctor determines the list of suppliers",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the kitchen prints requisition",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "COR_22"
+  },
+  {
+    "edus": [
+      {
+        "text": "the doctor organizes customs formalities",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor exposures log processing",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst applies for transfer of notes receivable",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the administrator deploys material",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the expert carries",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the server clears payment ",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "MAM_34"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress reviews the results of revaluation",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor prints account",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server credits request",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the server returns the signing of an agreement",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "COR_220"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager ships purchase orders ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police pays applications",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waitress accounts intercompany transfer",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress sends delivery notification",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waiter prepares notes ",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the police formulates the proposals",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier accepts fixed assets",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the expert wastes material",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the manager pays for the bill",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "MAM_100"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen confirms limit ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the sommelier creates notice",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_130"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress calculates estimated amount",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst products planning and maintenance",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen meets the accounting recognition ",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_111"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen transfers layouts",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor closes project",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the expert determines relevant methods for remuneration calculation",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waiter changes a purchase order",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "COR_323"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server calculates time dependent remuneration",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst pays vendor",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen cashiers payment",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the kitchen checks the number of inventory ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the sommelier disposals fixed assets",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the sommelier audits project ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the kitchen comprehensives provision",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the analyst implements the fixed asset disposal program",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the doctor returns the signing of an agreement",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the sommelier picks",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "COR_233"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waiter returns order",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server organizes fixed assets inventory",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_97"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police approvals department",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator runs the main production plan",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_181"
+  },
+  {
+    "edus": [
+      {
+        "text": "the analyst fills costs",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the sommelier confirms requisition ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waitress approvals inventory report",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the manager pends the preparation",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "MAM_151"
+  },
+  {
+    "edus": [
+      {
+        "text": "the expert fixes asset master data",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst accounts receivable accounting",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the writer classifies dangerous goods",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress notifies the business cost",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the writer exposures log processing",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "MAM_134"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server calculates inventory differences",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server creates return order",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the administrator creates cost",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the expert checks the main result of the production",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager processes payment",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the sommelier carries",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the police processes log ",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the waiter debts process",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the doctor accounts treatment of assets",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the expert checks the results from running long term",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the sommelier issues process",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the waitress reviews",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the waiter calls task",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the expert starts",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the server confirms the finished goods",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the manager changes the document master record",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the waiter processes investment budget",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the police joins",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "the waitress confirms requisition ",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "the doctor accounts processing",
+        "speaker": "0",
+        "sen_id": 19
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      }
+    ],
+    "txt_id": "MAM_15"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier formulates the proposals",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the expert assigns material",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server designs",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress checks the balance",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the server looks for purchase order",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the expert determines whether need single code ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the doctor audits bad debt loss",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the analyst classifies",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the administrator verifies invoice process",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "COR_77"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server identifies the causes ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server receives credit to maintain the master data accounting ",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_174"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waiter completes production",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator packs",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_178"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server submits project application ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen constructs accounting",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the doctor transfers layouts",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_275"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager checks specification",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the manager purchases accounting system",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager compares object ",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the manager constructs amount",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "COR_243"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier transfers the companies accounting ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst transfers object ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the expert creates",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the server determines whether a single natural alternative material",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager puts the goods to the appropriate storage areas",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the expert receives accounting system",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_149"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer issues shipping ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server accounts treatment",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the expert assesses operational capability",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst fixes assets acquisition process",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the server approvals document release process",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the expert accounts documents",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the police deploys plan",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the expert determines the issuance of pounds",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the waiter adjusts the cost of assets and depreciation",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the police deploys",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "COR_235"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier releases finance",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen accounts intercompany transfer",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the expert marks the production orders",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor changes a purchase order",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager confirms finance ",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "MAM_63"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen deploys plan",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server guarantees posting",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server loads material ",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the sommelier receives",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the kitchen determines relevant methods for remuneration calculation",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the analyst pays applications",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "MAM_204"
+  },
+  {
+    "edus": [
+      {
+        "text": "the expert adjusts project",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer reports processing",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst reverses the loss",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the sommelier exports the bill to meet the accounting ",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "COR_145"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer products order receipt",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter accounts for impairment of financial assets disposal plan",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager deploys plan",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_67"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager implements personnel development system",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server advertises business event",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_158"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress calls",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server designs",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waiter evidences assets accounting entry",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the expert calculates current costs",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the analyst runs an indirect cost",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the server audits project ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier accounts for impairment of financial assets disposal plan",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the sommelier approvals finance",
+        "speaker": "0",
+        "sen_id": 7
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      }
+    ],
+    "txt_id": "COR_103"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police operates all financial processes",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police checks the construction completion",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen provides annual sales forecast",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the sommelier approvals notice changes",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "COR_122"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police tests results",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server prepares annual cash budget",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen prints limit requisition",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_48"
+  },
+  {
+    "edus": [
+      {
+        "text": "the analyst organizes project implementation",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst requests payment ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server concentrates cash",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waiter maintains sale rate",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "MAM_184"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server processes agent",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the sommelier credits request",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen calls center evaluations",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst determines protocol proposal lists",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the expert pays the cashier custody",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the police ships order ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the waitress prepares group changes",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the police plans",
+        "speaker": "0",
+        "sen_id": 7
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      }
+    ],
+    "txt_id": "MAM_216"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waiter removes",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator creates a single vote",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager inspects receivable accounting",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_19"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server transfers applications",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer carries",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the sommelier processes log ",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor certificates process",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the sommelier looks for purchase order",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the administrator looks back material information",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the police checks month accounts",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "COR_118"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager changes execution",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator ranks project types",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waiter purchases requisition approval",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the writer runs an indirect cost",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the kitchen informs the project team",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the doctor organizes capacity to produce",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the analyst calculates benefit",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the manager puts the goods to the appropriate library spaces",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the doctor pays",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "MAM_173"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress downloads objects",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter processes voucher ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst prepares group changes",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the server changes",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "MAM_65"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager processes log ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen accepts votes",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_129"
+  },
+  {
+    "edus": [
+      {
+        "text": "the analyst determines whether a single natural alternative material",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen documents template",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager changes execution",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the server fixes characteristics",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the police certificates process",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the sommelier searches information ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the manager looks back material information",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "COR_89"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server processes the configuration folder",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer processes sales invoicing ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the writer approvals department",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst notices the receipt",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the expert prints requisition",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the doctor validates",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the server maintains precast production plan",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "COR_128"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen leads to loss sheet and print",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the expert assesses customer needs",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager receives accounting calculation",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the kitchen reviews materials",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waiter withdraws the accounting",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the analyst accepts votes",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_58"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager confirms the finished goods",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police completes project activities",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_61"
+  },
+  {
+    "edus": [
+      {
+        "text": "the expert accounts intercompany transfer",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the manager reviews",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager determines the loss",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the expert distributes inventory table",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the administrator creates",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the doctor reports change pointers",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_143"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waiter audits cost",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the expert leads to inventory table",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waiter prints collar material notice",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waiter inspects receivable accounting",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waiter accepts fixed assets",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waitress purchases requisition approval",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the waiter arranges delivery",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the server opens medical service",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the administrator plans material",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the manager calculates benefit",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "COR_230"
+  },
+  {
+    "edus": [
+      {
+        "text": "the administrator maintains foreign exchange rate",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst accounts processing",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst transports fees stations",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the police confirms limit ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waiter requests payment ",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the sommelier prepares vouchers to settle receivable accounting ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the expert products refunding",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the waitress imports inventory results",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the analyst leads to inventory table",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the administrator calculates benefit",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the waitress issues investment budget",
+        "speaker": "0",
+        "sen_id": 10
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      }
+    ],
+    "txt_id": "COR_14"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer constructs accounting",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst documents template",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_171"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server accepts project ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer manages technology ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the administrator receives notification",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the expert checks the document master record",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the kitchen accounts processing",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waitress calculates the provision",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the waiter arranges delivery",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the server creates order",
+        "speaker": "0",
+        "sen_id": 7
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      }
+    ],
+    "txt_id": "COR_161"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager exports the bill to meet the accounting ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer creates automatically",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the doctor changes message processing",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst applies for transfer of notes receivable",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager confirms supplier delivery",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the administrator organizes vehicle factory",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier posts receipt ",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the waitress distributes dangerous goods",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the server issues process",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the administrator determines whether need to invent",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "MAM_3"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier accounts processing",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor constructs accounting",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_134"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server documents distribution",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen creates a single vote",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_157"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen transfers the frozen state",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen leads to inventory table profit ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server sets up for personnel time recording",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waiter determines whether need to invent",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the analyst fixes asset master data",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the doctor consolidates investments",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_219"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress prints inventory list",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator records fixed assets",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst reports shipping",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress processes reminders ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the sommelier prepares notes ",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the manager delivers",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the kitchen distributes dangerous goods",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the expert checks the construction completion",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the waitress ships order ",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the analyst checks the construction completion",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the police organizes customs formalities",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the police calculates current costs",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the manager confirms the indirect cost",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the kitchen meets the accounting system ",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the waiter processes log ",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the waitress reversals invoice",
+        "speaker": "0",
+        "sen_id": 15
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      }
+    ],
+    "txt_id": "COR_54"
+  },
+  {
+    "edus": [
+      {
+        "text": "the doctor accounts intercompany transfer",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police prepares notes ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waitress approvals",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_139"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer maintains accounts",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter clears payment ",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_114"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager improves the network",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator tests results",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_157"
+  },
+  {
+    "edus": [
+      {
+        "text": "the expert ends request",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police revises",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the police processes log ",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the administrator changes related documents",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the analyst completes confirmation",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the kitchen marks the production orders",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_125"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen classifies",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator enters into a stock of base table",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen issues investment budget",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the writer receives customers",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the doctor issues processing goods ",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the manager prints quality",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_241"
+  },
+  {
+    "edus": [
+      {
+        "text": "the doctor ends product packaging",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police approvals department",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen plans material",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the manager notifies the production department",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the analyst changes the document master record",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waiter creates automatically",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the doctor validates data",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the waitress analyses table",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the waitress accepts assets",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the waitress documents template",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the analyst releases",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the writer validates data",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the kitchen accounts processing",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the waiter receives",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the sommelier maintains billing plan",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the waiter assesses customer needs",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the doctor distributes inventory table",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the writer issues materials",
+        "speaker": "0",
+        "sen_id": 17
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      }
+    ],
+    "txt_id": "MAM_24"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen evidences assets accounting entry",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer handles transport issues",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_163"
+  },
+  {
+    "edus": [
+      {
+        "text": "the administrator organizes fixed assets inventory",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst purchases",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager funds the information system",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the expert receives accounting system",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager checks month accounts",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the police analyses final results ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the server purchases order receipt",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the analyst completes settlement rule maintenance",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the writer advances process",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the waiter ships purchase orders ",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the waitress makes deductions",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the server adjusts the annual cash budget",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the writer prints inventory base table",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the police processes substance report",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the analyst audits cost",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the administrator receives credit to maintain the master data accounting ",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the waiter checks the sales order",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the writer confirms finance ",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "the doctor purchases order receipt",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "the expert changes",
+        "speaker": "0",
+        "sen_id": 19
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      }
+    ],
+    "txt_id": "MAM_16"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen organizes customs formalities",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator clears payment ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the administrator maintains the annual production plan",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the writer creates a single vote",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager prepares annual cash budget",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the administrator summarizes levels",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_60"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server receives accounting calculation",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server calls service",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_28"
+  },
+  {
+    "edus": [
+      {
+        "text": "the analyst ends request",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor plans material",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the doctor schedules",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor prints quality",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the kitchen reports processing",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waiter distributes dangerous goods",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the manager calculates general budget",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the doctor determines the focal point changes to customer information",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the police classifies",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the writer picks",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the sommelier designs",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the administrator completes production",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the police analyzes production",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the police returns",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the expert calls service",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the kitchen processes condition",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the waitress removes",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the administrator fixes assets acquisition process",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "the waiter prints quality",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "the administrator fixes assets process",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "the manager products refunding",
+        "speaker": "0",
+        "sen_id": 20
+      },
+      {
+        "text": "the expert products refunding",
+        "speaker": "0",
+        "sen_id": 21
+      },
+      {
+        "text": "the police confirms the finished goods",
+        "speaker": "0",
+        "sen_id": 22
+      },
+      {
+        "text": "the sommelier documents modification process",
+        "speaker": "0",
+        "sen_id": 23
+      },
+      {
+        "text": "the writer issues orders ",
+        "speaker": "0",
+        "sen_id": 24
+      },
+      {
+        "text": "the police organizes vehicle factory",
+        "speaker": "0",
+        "sen_id": 25
+      },
+      {
+        "text": "the waitress products structure management for variant products",
+        "speaker": "0",
+        "sen_id": 26
+      },
+      {
+        "text": "the writer prints proxy application",
+        "speaker": "0",
+        "sen_id": 27
+      },
+      {
+        "text": "the administrator dos the financial accounting",
+        "speaker": "0",
+        "sen_id": 28
+      },
+      {
+        "text": "the writer accounts balance interest",
+        "speaker": "0",
+        "sen_id": 29
+      },
+      {
+        "text": "the server correspondences with vendors",
+        "speaker": "0",
+        "sen_id": 30
+      },
+      {
+        "text": "the expert marks",
+        "speaker": "0",
+        "sen_id": 31
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 20,
+        "y": 21
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 22,
+        "y": 23
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 24,
+        "y": 25
+      },
+      {
+        "type": "0",
+        "x": 25,
+        "y": 28
+      },
+      {
+        "type": "0",
+        "x": 26,
+        "y": 27
+      },
+      {
+        "type": "0",
+        "x": 27,
+        "y": 28
+      },
+      {
+        "type": "0",
+        "x": 28,
+        "y": 29
+      },
+      {
+        "type": "0",
+        "x": 29,
+        "y": 30
+      },
+      {
+        "type": "0",
+        "x": 30,
+        "y": 31
+      }
+    ],
+    "txt_id": "COR_319"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager approvals notice changes",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst assigns project budget",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the police analyses inventory report",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor analyses final results ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the writer operates procedure",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the police calculates agreed remuneration",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the server issues processing goods ",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the doctor verifies invoice process",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the waitress reports processing",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the waitress handles commercial bills",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the analyst confirms requisition ",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the waiter documents modification process",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the manager prepares annual cash budget",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the administrator reviews materials",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the administrator confirms supplier delivery",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the kitchen charges",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the kitchen fixes processing",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the kitchen transfers object ",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "the expert sets project status",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "the waiter contracts the successful trial",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "the analyst funds",
+        "speaker": "0",
+        "sen_id": 20
+      },
+      {
+        "text": "the sommelier fills costs",
+        "speaker": "0",
+        "sen_id": 21
+      },
+      {
+        "text": "the waitress organizes customs formalities",
+        "speaker": "0",
+        "sen_id": 22
+      },
+      {
+        "text": "the doctor maintains internal order information flow",
+        "speaker": "0",
+        "sen_id": 23
+      },
+      {
+        "text": "the writer comments tables",
+        "speaker": "0",
+        "sen_id": 24
+      },
+      {
+        "text": "the analyst calls service",
+        "speaker": "0",
+        "sen_id": 25
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 20,
+        "y": 21
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 23
+      },
+      {
+        "type": "0",
+        "x": 22,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 24,
+        "y": 25
+      }
+    ],
+    "txt_id": "COR_291"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress masters material ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer evaluates plant maintenance information system",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waitress distributes dangerous goods",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_4"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager inputs investment scheme",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the expert prints inventory list",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_138"
+  },
+  {
+    "edus": [
+      {
+        "text": "the expert audits vendor performance",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen leads approval",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waitress assesses operational capability",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress calls",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the server evaluates plant maintenance information system",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the writer checks the main result of the production",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the waitress handles transfer station",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the waitress checks the construction completion",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the doctor reversals invoice",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the writer prepares budget loss estimation",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "COR_337"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier determines whether need single code ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the sommelier changes the document master record",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the sommelier confirms the indirect cost",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the police runs vendor evaluation",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the writer settles assets",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the expert distributes monitoring",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_59"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress approvals process payment",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the sommelier checks the document master record",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst wastes material",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst recognizes the need to raise money for bad debts",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waiter starts project ",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the expert analyses final results ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier checks the goods",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the kitchen converts purchase requisitions",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the waitress assesses customer needs",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the waitress writes specification",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the administrator fills costs",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the analyst evaluates project",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the kitchen refunds process",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the writer gets feedback",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the server receives customer business bill",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the kitchen completes settlement rule maintenance",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the writer uploads objects",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the server changes message processing",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "the analyst recognizes the need to raise money for bad debts",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "the waitress orders completion information ",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "the sommelier marks",
+        "speaker": "0",
+        "sen_id": 20
+      },
+      {
+        "text": "the waiter products structure management for variant products",
+        "speaker": "0",
+        "sen_id": 21
+      },
+      {
+        "text": "the sommelier reverses the loss",
+        "speaker": "0",
+        "sen_id": 22
+      },
+      {
+        "text": "the waitress plans material",
+        "speaker": "0",
+        "sen_id": 23
+      },
+      {
+        "text": "the sommelier orders",
+        "speaker": "0",
+        "sen_id": 24
+      },
+      {
+        "text": "the analyst approvals process payment",
+        "speaker": "0",
+        "sen_id": 25
+      },
+      {
+        "text": "the doctor prints limit requisition",
+        "speaker": "0",
+        "sen_id": 26
+      },
+      {
+        "text": "the manager changes order",
+        "speaker": "0",
+        "sen_id": 27
+      },
+      {
+        "text": "the manager changes the document master record",
+        "speaker": "0",
+        "sen_id": 28
+      },
+      {
+        "text": "the expert reversals invoice",
+        "speaker": "0",
+        "sen_id": 29
+      },
+      {
+        "text": "the kitchen purchases order inquiries",
+        "speaker": "0",
+        "sen_id": 30
+      },
+      {
+        "text": "the analyst phrases processing",
+        "speaker": "0",
+        "sen_id": 31
+      },
+      {
+        "text": "the waiter accounts documents",
+        "speaker": "0",
+        "sen_id": 32
+      },
+      {
+        "text": "the police receives cashier ",
+        "speaker": "0",
+        "sen_id": 33
+      },
+      {
+        "text": "the writer issues shipping ",
+        "speaker": "0",
+        "sen_id": 34
+      },
+      {
+        "text": "the police documents distribution",
+        "speaker": "0",
+        "sen_id": 35
+      },
+      {
+        "text": "the writer processes object ",
+        "speaker": "0",
+        "sen_id": 36
+      },
+      {
+        "text": "the doctor fixes assets",
+        "speaker": "0",
+        "sen_id": 37
+      },
+      {
+        "text": "the analyst purchases order inquiries",
+        "speaker": "0",
+        "sen_id": 38
+      },
+      {
+        "text": "the expert archives production order",
+        "speaker": "0",
+        "sen_id": 39
+      },
+      {
+        "text": "the server organizes capacity to produce",
+        "speaker": "0",
+        "sen_id": 40
+      },
+      {
+        "text": "the expert analyses project",
+        "speaker": "0",
+        "sen_id": 41
+      },
+      {
+        "text": "the doctor fixes assets process",
+        "speaker": "0",
+        "sen_id": 42
+      },
+      {
+        "text": "the analyst calculates gross margin",
+        "speaker": "0",
+        "sen_id": 43
+      },
+      {
+        "text": "the manager contracts the successful trial",
+        "speaker": "0",
+        "sen_id": 44
+      },
+      {
+        "text": "the writer notifies the business cost",
+        "speaker": "0",
+        "sen_id": 45
+      },
+      {
+        "text": "the doctor receives notification",
+        "speaker": "0",
+        "sen_id": 46
+      },
+      {
+        "text": "the expert applies for transfer of notes receivable",
+        "speaker": "0",
+        "sen_id": 47
+      },
+      {
+        "text": "the server inspects receivable accounting",
+        "speaker": "0",
+        "sen_id": 48
+      },
+      {
+        "text": "the sommelier checks the document master record",
+        "speaker": "0",
+        "sen_id": 49
+      },
+      {
+        "text": "the doctor converts purchase requisitions",
+        "speaker": "0",
+        "sen_id": 50
+      },
+      {
+        "text": "the sommelier transfers the treasury accounts",
+        "speaker": "0",
+        "sen_id": 51
+      },
+      {
+        "text": "the waitress constructs amount",
+        "speaker": "0",
+        "sen_id": 52
+      },
+      {
+        "text": "the analyst determines relevant methods for remuneration calculation",
+        "speaker": "0",
+        "sen_id": 53
+      },
+      {
+        "text": "the waitress maintains the implementation status of purchase orders",
+        "speaker": "0",
+        "sen_id": 54
+      },
+      {
+        "text": "the kitchen ships order ",
+        "speaker": "0",
+        "sen_id": 55
+      },
+      {
+        "text": "the police calls",
+        "speaker": "0",
+        "sen_id": 56
+      },
+      {
+        "text": "the waitress pays the cashier custody",
+        "speaker": "0",
+        "sen_id": 57
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 20,
+        "y": 21
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 22,
+        "y": 23
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 24,
+        "y": 25
+      },
+      {
+        "type": "0",
+        "x": 25,
+        "y": 28
+      },
+      {
+        "type": "0",
+        "x": 25,
+        "y": 30
+      },
+      {
+        "type": "0",
+        "x": 26,
+        "y": 27
+      },
+      {
+        "type": "0",
+        "x": 27,
+        "y": 28
+      },
+      {
+        "type": "0",
+        "x": 27,
+        "y": 30
+      },
+      {
+        "type": "0",
+        "x": 28,
+        "y": 29
+      },
+      {
+        "type": "0",
+        "x": 29,
+        "y": 32
+      },
+      {
+        "type": "0",
+        "x": 29,
+        "y": 34
+      },
+      {
+        "type": "0",
+        "x": 30,
+        "y": 31
+      },
+      {
+        "type": "0",
+        "x": 31,
+        "y": 32
+      },
+      {
+        "type": "0",
+        "x": 31,
+        "y": 34
+      },
+      {
+        "type": "0",
+        "x": 32,
+        "y": 33
+      },
+      {
+        "type": "0",
+        "x": 33,
+        "y": 36
+      },
+      {
+        "type": "0",
+        "x": 33,
+        "y": 38
+      },
+      {
+        "type": "0",
+        "x": 34,
+        "y": 35
+      },
+      {
+        "type": "0",
+        "x": 35,
+        "y": 36
+      },
+      {
+        "type": "0",
+        "x": 35,
+        "y": 38
+      },
+      {
+        "type": "0",
+        "x": 36,
+        "y": 37
+      },
+      {
+        "type": "0",
+        "x": 37,
+        "y": 40
+      },
+      {
+        "type": "0",
+        "x": 37,
+        "y": 42
+      },
+      {
+        "type": "0",
+        "x": 38,
+        "y": 39
+      },
+      {
+        "type": "0",
+        "x": 39,
+        "y": 40
+      },
+      {
+        "type": "0",
+        "x": 39,
+        "y": 42
+      },
+      {
+        "type": "0",
+        "x": 40,
+        "y": 41
+      },
+      {
+        "type": "0",
+        "x": 41,
+        "y": 44
+      },
+      {
+        "type": "0",
+        "x": 41,
+        "y": 46
+      },
+      {
+        "type": "0",
+        "x": 42,
+        "y": 43
+      },
+      {
+        "type": "0",
+        "x": 43,
+        "y": 44
+      },
+      {
+        "type": "0",
+        "x": 43,
+        "y": 46
+      },
+      {
+        "type": "0",
+        "x": 44,
+        "y": 45
+      },
+      {
+        "type": "0",
+        "x": 45,
+        "y": 48
+      },
+      {
+        "type": "0",
+        "x": 45,
+        "y": 50
+      },
+      {
+        "type": "0",
+        "x": 46,
+        "y": 47
+      },
+      {
+        "type": "0",
+        "x": 47,
+        "y": 48
+      },
+      {
+        "type": "0",
+        "x": 47,
+        "y": 50
+      },
+      {
+        "type": "0",
+        "x": 48,
+        "y": 49
+      },
+      {
+        "type": "0",
+        "x": 49,
+        "y": 52
+      },
+      {
+        "type": "0",
+        "x": 49,
+        "y": 54
+      },
+      {
+        "type": "0",
+        "x": 50,
+        "y": 51
+      },
+      {
+        "type": "0",
+        "x": 51,
+        "y": 52
+      },
+      {
+        "type": "0",
+        "x": 51,
+        "y": 54
+      },
+      {
+        "type": "0",
+        "x": 52,
+        "y": 53
+      },
+      {
+        "type": "0",
+        "x": 53,
+        "y": 56
+      },
+      {
+        "type": "0",
+        "x": 54,
+        "y": 55
+      },
+      {
+        "type": "0",
+        "x": 55,
+        "y": 56
+      },
+      {
+        "type": "0",
+        "x": 56,
+        "y": 57
+      }
+    ],
+    "txt_id": "COR_198"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier forecasts",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the expert accounts asset",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen checks the number of inventory ",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the kitchen plans layouts",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "COR_20"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server tests results",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor researches materials",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the writer charges",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the server invests",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the administrator makes project summary",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the expert receives accounting system",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier processes product",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the police checks out ",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the waitress deploys",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "MAM_202"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen processes the configuration folder",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police processes interest",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the sommelier pends the preparation",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the administrator implements personnel development system",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the police changes the production order",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the analyst implements personnel development system",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_209"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waiter contracts the successful trial",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst calculates inventory differences",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen sends object",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the sommelier sets up for personnel time recording",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the administrator confirms the finished goods",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the administrator assesses the value",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the doctor prints production",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "COR_256"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer manages project",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer deploys plan",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen plans layouts",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the server informs the project tea",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the police develops statistical indicators for maintenance",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the writer exposures log processing",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the expert revises",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the server orders investment budget",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the manager phrases processing",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the kitchen compares object ",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the waitress posts judgment",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the waiter products shipped factory",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the doctor validates data",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the doctor modifies order",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the waiter prepares material ",
+        "speaker": "0",
+        "sen_id": 14
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      }
+    ],
+    "txt_id": "COR_347"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police modifies error",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the expert transfers applications",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager submits application",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_83"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager makes the evaluation of the project",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator processes condition",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the doctor funds",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the kitchen meets the accounting recognition ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the writer forecasts",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the analyst processes final invoice ",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_217"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police issues a single code",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waitress changes message processing",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the sommelier checks the document master record",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "COR_81"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager receives customers",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the sommelier builds structure",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen products limit requisition",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress accounts treatment of assets",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the kitchen prepares materials",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waitress certificates process",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the writer translates",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "COR_116"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier checks whether the provision for bad debts is consistent",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the manager determines the issuance of pounds",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst transfers applications",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the writer prepares business case for project",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waiter provides annual sales forecast",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the expert plans layouts",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier assigns project budget",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the sommelier arranges delivery",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the expert orders investment budget",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the server schedules",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "MAM_45"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier pays applications",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator uploads objects",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the sommelier looks back material information",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the expert analyses table",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waitress runs the results",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waitress checks the balance",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "MAM_50"
+  },
+  {
+    "edus": [
+      {
+        "text": "the doctor adjusts the annual cash budget",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter processes",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_189"
+  },
+  {
+    "edus": [
+      {
+        "text": "the expert approvals document release process",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waitress maintains the implementation status of purchase orders",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waiter creates a document",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the sommelier plans leadership for approval",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waiter creates a document",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the analyst inspects receivable accounting",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the waiter tracks status",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the kitchen calculates benefit",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the analyst calls",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the analyst creates manually",
+        "speaker": "0",
+        "sen_id": 9
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      }
+    ],
+    "txt_id": "MAM_5"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police processes the configuration folder",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the manager puts the goods to the appropriate library spaces",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_111"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager invests",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen creates cost",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager sets up for personnel time recording",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst closes project documentation",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the expert examines the need for advance payment",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the police processes ",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_94"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen requests payment ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waitress changes order",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the sommelier assesses the value",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor transfers the system ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager tracks status",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waiter reviews",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the administrator purchases order receipt",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the waitress searches information ",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the administrator purchases order inquiries",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the police determines whether need single code ",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the writer appointments manager",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the expert makes the evaluation of the project",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the sommelier plans leadership for approval",
+        "speaker": "0",
+        "sen_id": 12
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      }
+    ],
+    "txt_id": "COR_203"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress manages technology ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the writer credits request",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the doctor distributes inventory table",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor processes product",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager changes execution",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the kitchen posts receipt ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier products long term plan",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the server calls",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the police assesses applications",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the administrator correspondences with customers",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the administrator deploys",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the sommelier notifies the production department",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the kitchen plans layouts",
+        "speaker": "0",
+        "sen_id": 12
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      }
+    ],
+    "txt_id": "MAM_206"
+  },
+  {
+    "edus": [
+      {
+        "text": "the administrator determines the list of suppliers",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst calculates time dependent remuneration",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the expert evaluates project",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the writer appointments manager",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "MAM_92"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier modifies order",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police distributes monitoring",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst tests results",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress products order receipt",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the expert submits applications",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the doctor ranks project types",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the analyst tracks status",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the waiter designs personnel development",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the server starts project ",
+        "speaker": "0",
+        "sen_id": 8
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      }
+    ],
+    "txt_id": "COR_289"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager develops investment plan",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the server reviews asset inventory report",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the analyst organizes capacity to produce",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor runs an indirect cost",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the administrator prints limit requisition",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the server monitors project",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "COR_340"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police analyses final results ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the manager informs the project team",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waiter processes graphical product structure ",
+        "speaker": "0",
+        "sen_id": 2
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      }
+    ],
+    "txt_id": "MAM_126"
+  },
+  {
+    "edus": [
+      {
+        "text": "the police calls center evaluations",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator distributes network",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager reports inventory ",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst notices the receipt",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the kitchen meets the accounting system ",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "COR_301"
+  },
+  {
+    "edus": [
+      {
+        "text": "the doctor releases finance",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter purchases agreement",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the sommelier confirms requisition ",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the kitchen determines the focal point changes to customer information",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the waiter processes dangerous goods",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waitress implements the financial year",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the waitress appointments manager",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "COR_254"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer sends object",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waitress approvals notice changes",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen distributes inventory table",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst receives customer business bill",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager calculates inventory differences",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the expert translates",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier leads to loss sheet and print",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the kitchen audits",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the doctor meets the accounting",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the doctor handles commercial bills",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the writer products safety",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the waiter maintains sale rate",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the writer determines the approval process",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the writer confirms the statistics",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the kitchen confirms activity",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the administrator receives list processing",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the manager checks the main result of the production",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the expert posts judgment",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "the waiter costs",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "the analyst plans layouts",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "the kitchen determines protocol proposal lists",
+        "speaker": "0",
+        "sen_id": 20
+      },
+      {
+        "text": "the administrator receives details",
+        "speaker": "0",
+        "sen_id": 21
+      },
+      {
+        "text": "the police audits cost",
+        "speaker": "0",
+        "sen_id": 22
+      },
+      {
+        "text": "the sommelier prepares annual cash budget",
+        "speaker": "0",
+        "sen_id": 23
+      },
+      {
+        "text": "the waiter receives list processing",
+        "speaker": "0",
+        "sen_id": 24
+      },
+      {
+        "text": "the waitress posts judgment",
+        "speaker": "0",
+        "sen_id": 25
+      },
+      {
+        "text": "the waitress makes deductions",
+        "speaker": "0",
+        "sen_id": 26
+      },
+      {
+        "text": "the server makes up the cost of the balance",
+        "speaker": "0",
+        "sen_id": 27
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 20,
+        "y": 21
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 22,
+        "y": 23
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 24,
+        "y": 25
+      },
+      {
+        "type": "0",
+        "x": 25,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 26,
+        "y": 27
+      }
+    ],
+    "txt_id": "MAM_11"
+  },
+  {
+    "edus": [
+      {
+        "text": "the doctor confirms requisition ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator receives customers",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waitress votes",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the writer documents modification process",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager organizes fixed assets inventory",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the server transfers the companies accounting ",
+        "speaker": "0",
+        "sen_id": 5
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      }
+    ],
+    "txt_id": "MAM_10"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress maintains the annual production plan",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor receives details",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_64"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen checks the goods",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator receives supplier invoices ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the doctor builds structure",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress checks month accounts",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the analyst approvals process payment",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the police allocates project budget",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the expert refunds process",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the expert receives details",
+        "speaker": "0",
+        "sen_id": 7
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      }
+    ],
+    "txt_id": "COR_101"
+  },
+  {
+    "edus": [
+      {
+        "text": "the expert determines relevant methods for remuneration calculation",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waitress cashiers payment",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_153"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress confirms supplier delivery",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police comments tables",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_17"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waiter posts judgment",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter deploys material",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager products specification",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the expert operates staff",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the analyst reversals invoice",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the writer approvals finance",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the administrator calculates gross margin",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the waiter completes confirmation",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the kitchen assesses the value",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the manager revises",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the kitchen reviews the results of revaluation",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the doctor closes project",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the sommelier applies for transfer of notes receivable",
+        "speaker": "0",
+        "sen_id": 12
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      }
+    ],
+    "txt_id": "COR_201"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier confirms the finished goods",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the manager runs plan",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the administrator manages project",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the kitchen records production",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the expert picks",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "MAM_170"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer purchases order receipt",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter checks the construction completion",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server documents template",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waiter completes financial view of cost accounting ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager submits application",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "MAM_79"
+  },
+  {
+    "edus": [
+      {
+        "text": "the administrator reports change pointers",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter searches information ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the sommelier changes execution",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the manager analyses final results ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the server picks",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waitress adjusts the cost of assets and depreciation",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the writer deploys plan",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "COR_169"
+  },
+  {
+    "edus": [
+      {
+        "text": "the server creates",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen processes reminders ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waitress calculates current costs",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the sommelier reviews materials",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "MAM_105"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer implements personnel appraisal system",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waitress changes the production order",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server purchases accounting system",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst prints collar material notice",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager notices the receipt",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the police removes",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the server archives production order",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "MAM_201"
+  },
+  {
+    "edus": [
+      {
+        "text": "the administrator posts receipt ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the police accepts fixed assets",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_18"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress ships purchase orders ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the waiter prepares annual cash budget",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the manager processes payment",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the manager advertises business event",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the police audits cost",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the manager manages object",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the writer improves the network",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "MAM_141"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waiter makes project summary",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator phrases processing",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "COR_185"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager creates a single vote",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the sommelier imports inventory results",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waiter processes payment",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the waitress transfers the companies accounting ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the writer plans",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the server applies for department staff",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the server cashiers payment",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the police cashiers payment",
+        "speaker": "0",
+        "sen_id": 7
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      }
+    ],
+    "txt_id": "MAM_221"
+  },
+  {
+    "edus": [
+      {
+        "text": "the waitress runs the main production plan",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the analyst manages project",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the expert processes reminders ",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the server delivers order ",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the server confirms finance ",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the waitress searches information ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the analyst pays for the bill",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the manager approvals department",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the police confirms the finished goods",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the analyst converts purchase requisitions",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the administrator receives credit to maintain the master data accounting ",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the kitchen prints account",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the writer returns order",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the sommelier ships purchase orders ",
+        "speaker": "0",
+        "sen_id": 13
+      },
+      {
+        "text": "the sommelier pays",
+        "speaker": "0",
+        "sen_id": 14
+      },
+      {
+        "text": "the sommelier funds",
+        "speaker": "0",
+        "sen_id": 15
+      },
+      {
+        "text": "the writer approvals inventory",
+        "speaker": "0",
+        "sen_id": 16
+      },
+      {
+        "text": "the manager changes order",
+        "speaker": "0",
+        "sen_id": 17
+      },
+      {
+        "text": "the expert looks back material information",
+        "speaker": "0",
+        "sen_id": 18
+      },
+      {
+        "text": "the analyst approvals document release process",
+        "speaker": "0",
+        "sen_id": 19
+      },
+      {
+        "text": "the analyst gets feedback",
+        "speaker": "0",
+        "sen_id": 20
+      },
+      {
+        "text": "the server manages object",
+        "speaker": "0",
+        "sen_id": 21
+      },
+      {
+        "text": "the expert handles transfer station",
+        "speaker": "0",
+        "sen_id": 22
+      },
+      {
+        "text": "the writer sets project status",
+        "speaker": "0",
+        "sen_id": 23
+      },
+      {
+        "text": "the manager posts receipt ",
+        "speaker": "0",
+        "sen_id": 24
+      },
+      {
+        "text": "the analyst looks for purchase order",
+        "speaker": "0",
+        "sen_id": 25
+      },
+      {
+        "text": "the police plans",
+        "speaker": "0",
+        "sen_id": 26
+      },
+      {
+        "text": "the waitress maintains sale rate",
+        "speaker": "0",
+        "sen_id": 27
+      },
+      {
+        "text": "the administrator deploys plan",
+        "speaker": "0",
+        "sen_id": 28
+      },
+      {
+        "text": "the manager handles transfer station",
+        "speaker": "0",
+        "sen_id": 29
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 14
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 13,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 14,
+        "y": 15
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 16
+      },
+      {
+        "type": "0",
+        "x": 15,
+        "y": 18
+      },
+      {
+        "type": "0",
+        "x": 16,
+        "y": 17
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 17,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 18,
+        "y": 19
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 20
+      },
+      {
+        "type": "0",
+        "x": 19,
+        "y": 22
+      },
+      {
+        "type": "0",
+        "x": 20,
+        "y": 21
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 21,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 22,
+        "y": 23
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 24
+      },
+      {
+        "type": "0",
+        "x": 23,
+        "y": 26
+      },
+      {
+        "type": "0",
+        "x": 24,
+        "y": 25
+      },
+      {
+        "type": "0",
+        "x": 25,
+        "y": 28
+      },
+      {
+        "type": "0",
+        "x": 26,
+        "y": 27
+      },
+      {
+        "type": "0",
+        "x": 27,
+        "y": 28
+      },
+      {
+        "type": "0",
+        "x": 28,
+        "y": 29
+      }
+    ],
+    "txt_id": "COR_248"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen changes order",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the expert receives cashier ",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server organizes customs formalities",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the expert recognizes the need to raise money for bad debts",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the analyst validates data",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "MAM_80"
+  },
+  {
+    "edus": [
+      {
+        "text": "the writer creates sales order",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the manager sends delivery notification",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the police plans material",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst examines the need for advance payment",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the administrator makes the evaluation of the project",
+        "speaker": "0",
+        "sen_id": 4
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 0,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      }
+    ],
+    "txt_id": "MAM_44"
+  },
+  {
+    "edus": [
+      {
+        "text": "the expert processes reminders ",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor requests payment ",
+        "speaker": "0",
+        "sen_id": 1
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "txt_id": "MAM_192"
+  },
+  {
+    "edus": [
+      {
+        "text": "the kitchen tracks status",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the doctor releases finance",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the waiter prepares annual cash budget",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the manager maintains accounts",
+        "speaker": "0",
+        "sen_id": 3
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      }
+    ],
+    "txt_id": "COR_121"
+  },
+  {
+    "edus": [
+      {
+        "text": "the sommelier accounts fixed assets",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the kitchen converts purchase requisitions",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the kitchen disposals fixed assets",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the doctor posts judgment",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the expert receives supplier invoices ",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the administrator checks cashier",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the sommelier determines relevant methods for remuneration calculation",
+        "speaker": "0",
+        "sen_id": 6
+      },
+      {
+        "text": "the server confirms the indirect cost",
+        "speaker": "0",
+        "sen_id": 7
+      },
+      {
+        "text": "the police implements the fixed asset disposal program",
+        "speaker": "0",
+        "sen_id": 8
+      },
+      {
+        "text": "the analyst releases",
+        "speaker": "0",
+        "sen_id": 9
+      },
+      {
+        "text": "the waiter reports inventory ",
+        "speaker": "0",
+        "sen_id": 10
+      },
+      {
+        "text": "the administrator contracts the successful trial",
+        "speaker": "0",
+        "sen_id": 11
+      },
+      {
+        "text": "the server prints a single storage",
+        "speaker": "0",
+        "sen_id": 12
+      },
+      {
+        "text": "the sommelier checks the goods",
+        "speaker": "0",
+        "sen_id": 13
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 6
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 6,
+        "y": 7
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 8
+      },
+      {
+        "type": "0",
+        "x": 7,
+        "y": 10
+      },
+      {
+        "type": "0",
+        "x": 8,
+        "y": 9
+      },
+      {
+        "type": "0",
+        "x": 9,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 10,
+        "y": 11
+      },
+      {
+        "type": "0",
+        "x": 11,
+        "y": 12
+      },
+      {
+        "type": "0",
+        "x": 12,
+        "y": 13
+      }
+    ],
+    "txt_id": "MAM_22"
+  },
+  {
+    "edus": [
+      {
+        "text": "the manager implements capital budget",
+        "speaker": "0",
+        "sen_id": 0
+      },
+      {
+        "text": "the administrator opens medical service",
+        "speaker": "0",
+        "sen_id": 1
+      },
+      {
+        "text": "the server checks cashier",
+        "speaker": "0",
+        "sen_id": 2
+      },
+      {
+        "text": "the analyst reports change pointers",
+        "speaker": "0",
+        "sen_id": 3
+      },
+      {
+        "text": "the manager correspondences with customers",
+        "speaker": "0",
+        "sen_id": 4
+      },
+      {
+        "text": "the administrator delivers order ",
+        "speaker": "0",
+        "sen_id": 5
+      },
+      {
+        "text": "the administrator accounts for impairment of financial assets disposal plan",
+        "speaker": "0",
+        "sen_id": 6
+      }
+    ],
+    "relations": [
+      {
+        "type": "0",
+        "x": 0,
+        "y": 1
+      },
+      {
+        "type": "0",
+        "x": 1,
+        "y": 2
+      },
+      {
+        "type": "0",
+        "x": 2,
+        "y": 3
+      },
+      {
+        "type": "0",
+        "x": 3,
+        "y": 4
+      },
+      {
+        "type": "0",
+        "x": 4,
+        "y": 5
+      },
+      {
+        "type": "0",
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "txt_id": "COR_44"
+  }
+]
